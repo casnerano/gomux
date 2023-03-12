@@ -1,7 +1,7 @@
 # gomux
 
 Package includes:
-1. A simple wrapper for `http.HandleFunc`
+1. A simple wrapper for `http.HandleFunc`, that provides a simple HTTP handler function to decode JSON requests and encode JSON responses.
 
 ## Usage
 ```go
